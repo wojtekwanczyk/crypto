@@ -1,0 +1,4 @@
+.ipyn*
+venv
+.vscode
+*.py[cod]
